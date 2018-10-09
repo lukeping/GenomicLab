@@ -8,6 +8,8 @@
 > 登录服务器后请建立自己的目录，以学号+姓名拼音命名，实验数据和结果都放入这个目录  
 > 设置环境变量：`module add bioinfo`  
 
+
+
 **Linux学习资料**  
 [Linux command line](https://github.com/hnnd/Linux_command_line)
 
